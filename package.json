@@ -34,7 +34,7 @@
     "form-data": ">=2.5.4",
     "braces": ">=3.0.3",
     "mocha": "^8.4.0",
-    "nanoid": "^3.1.31",
+    "nanoid": "^5.0.7",
     "nyc": "14.1.1",
     "steam-user": "^5.0.0",
     "steamcommunity": "^3.49.0",
